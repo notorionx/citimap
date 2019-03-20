@@ -1,0 +1,6 @@
+[submodule "citimap-client"]
+	path = citimap-client
+	url = https://github.com/orionxiao/citimap-client
+[submodule "citimap-server"]
+	path = citimap-server
+	url = https://github.com/orionxiao/citimap-server
