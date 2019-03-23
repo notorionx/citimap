@@ -1,6 +1,6 @@
 # [CitiMap](https://citimap-ox.herokuapp.com)
 #### A web application to find Citibike stations near you.
-
+(Site may take a while to load if it hasn't been accessed recently, due to how Heroku works)
 ##### Built Using
 - [ReactJS](https://reactjs.org/), a component-based UI framework
 - [styled-components](https://www.styled-components.com/), a library for organized styling of components
